@@ -23,7 +23,7 @@ public class TestApp {
 //		opinion1.setName("It is fine");
 //		opinionPoll.addOpinion(opinion1);
 //		
-//		Opinion opinion2 = new Opinion();
+		// Opinion opinion2 = new Opinion();a va
 //		opinion2.setName("Needs to be changed");
 //		opinionPoll.addOpinion(opinion2);
 //		
